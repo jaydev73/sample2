@@ -14,7 +14,8 @@ function doSomething() {
     alert("I was clicked")
 }
 
-console.log("Hello");
+console.log("Something Else");
+
 // const button = document.getElementById("my-id");
 // button.addEventListener("click", doSomething)
 
