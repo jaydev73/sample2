@@ -35,3 +35,5 @@ if(hournow > 18){
     greeting =  "Welcome";
 }
 document.write('<h3>' + greeting + '</h3>')
+
+alert("Conflict1")
