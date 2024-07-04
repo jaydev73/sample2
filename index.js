@@ -4,7 +4,7 @@ function updateMessage() {
     el.textContent = msg
 }
 updateMessage()
-alert("feature2")
+alert("feature done")
 const el = document.getElementById("one")
 el.className = "cool"
 
